@@ -1,0 +1,6 @@
+# Ignore all build folders
+/build/
+
+# Ignore all temporary files
+*.bak
+*.log
